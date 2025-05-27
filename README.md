@@ -58,8 +58,5 @@ To run this project locally:
 
 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT Licensed
 
----
-
-Let me know if you’d like to include a GitHub Pages live link or a screenshot to complete it!
